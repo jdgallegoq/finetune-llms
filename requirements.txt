@@ -1,5 +1,5 @@
 git+https://github.com/huggingface/transformers
-git+https://github.com/huggingface/accelerate
+accelerate
 git+https://github.com/huggingface/peft
 git+https://github.com/huggingface/trl
 flash-attn
@@ -16,3 +16,4 @@ numpy
 scipy
 matplotlib
 sentencepiece
+ipykernel
