@@ -1,0 +1,6 @@
+huggingface-hub
+transformers
+datasets
+trl
+tensorboardX
+wandb
