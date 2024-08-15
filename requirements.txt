@@ -6,6 +6,8 @@ flash-attn
 huggingface-hub
 evaluate
 datasets
+peft
+trl
 bitsandbytes
 einops
 wandb
