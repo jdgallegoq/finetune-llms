@@ -1,7 +1,7 @@
 huggingface-hub
 peft
 transformers
-datasets
+datasets>=2.2.0ß
 trl
 tensorboardX
 wandb
