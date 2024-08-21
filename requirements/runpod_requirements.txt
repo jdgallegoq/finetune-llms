@@ -5,3 +5,4 @@ datasets>=2.2.0ß
 trl
 tensorboardX
 wandb
+sentencepiece
