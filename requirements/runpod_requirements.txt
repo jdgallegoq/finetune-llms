@@ -6,3 +6,6 @@ trl
 tensorboardX
 wandb
 sentencepiece
+matplotlib
+bitsandbytes
+flash_attn
